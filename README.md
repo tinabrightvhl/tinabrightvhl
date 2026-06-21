@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding Girl" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
 ### 👩‍💻 About Me
 
@@ -75,7 +75,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tinabrightvhl&label=Profile%20views&color=7F77DD&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=tinabrightvhl&label=Profile%20views&color=E4405F&style=flat" alt="profile views"/>
 </p>
 
 <p align="center">⭐ <i>Thanks for visiting my profile! Don't forget to star my repos if you find them useful!</i> ⭐</p>
