@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="Coding Girl" width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" alt="Girl Coding" width="280" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 
 ### 👩‍💻 About Me
 
