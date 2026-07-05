@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/wetina-hulu-633510418">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://scholar.google.com/citations?hl=id&user=r5rnRxsAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
   <a href="mailto:wetinahulu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
