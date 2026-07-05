@@ -65,19 +65,7 @@ Hi, I'm Wetina — a Computer Science student who's curious about a bit of every
 
 ---
 
-### 📬 Connect with Me
-
-<p align="left">
-  <a href="https://instagram.com/tinabrightvhl" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tinabrightvhl" height="30" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/wetina-hulu-633510418" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wetina hulu" height="30" width="40"/>
-  </a>
-  <a href="mailto:wetinahulu@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40"/>
-  </a>
-</p>
+### 📬 Connect
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tinabrightvhl&label=Profile%20views&color=E4405F&style=flat" alt="profile views"/>
